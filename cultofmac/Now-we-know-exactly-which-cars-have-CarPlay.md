@@ -1,3 +1,6 @@
+
+原文链接：http://www.cultofmac.com/406368/now-we-know-exactly-which-cars-have-carplay/
+
 标题：现在我们知道究竟哪些汽车拥有CarPlay
 
 Apple’s finally getting specific about how well adoption of its CarPlay protocol is going.
